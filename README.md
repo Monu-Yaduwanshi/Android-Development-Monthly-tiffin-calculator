@@ -86,4 +86,4 @@ This project is licensed under the MIT License. For more details, see the LICENS
 Smart. Simple. Accurate.
 The Tiffin Calculator—your essential companion for managing tiffin service dates! 🍽️📅
 
-This description uses a visually appealing format, providing detailed information about the app's features, project structure, and how to get started. It also invites contributions and highlights potential expansions via Firebase integration. You can modify the repository URL, screenshot links, and any additional information as needed.
+
